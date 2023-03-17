@@ -1,11 +1,6 @@
-## My Project
+## Visitor Prioritization on e-Commerce Websites with CloudFront and CloudFront Functions
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This repository is used for CloudFormation template for the blog - "Visitor Prioritization on e-Commerce Websites with CloudFront and CloudFront Functions". 
 
 ## Security
 
